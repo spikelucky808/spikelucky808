@@ -5,6 +5,6 @@ Working on mobile apps for ios and android.
 
 ## Apps in progress
 
-🔢 Ultimate Calculator 🧮
+🔢 Spikelucky's Calculator 🧮
 
 🌠 Astrofacts/fiction 👽
